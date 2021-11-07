@@ -25,6 +25,19 @@ wydajnosc, 1 instancja ale dodatkowe zaleznosci w testach i miedzy obiektami,
  /////////////////////////////////////////////////////////////////
  BUILDER - latwiejsze tworzenie obiektów
 
+ jako klasa statyczna wewnetrzna mozna, mozna tez jako zewnetrzna to
+ ale wtedy gettery/settery/lombok
+
+ ///////////////////////Factory method
+ - tworzenie skomplikowanych obiektow za pomoca wywolania metody
+
+ abstract factory - praca na abstrakcjach, chowamy kod a;e za to duzo si etrzeba wczesniej napsiac
+
+ PROTOTYPE (Clonable/clone/deep --.List.copyof
+ shallowcopy - > kopia swego rodzaju referencji
+ deep copy -> cała kopia nowego obiektu
+
+
 
 
 

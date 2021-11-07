@@ -1,0 +1,22 @@
+jak sie maja komunikowac obiekty
+
+COMMAND
+
+CHAIN OF RESPONSIBILITY
+
+INTERPRETER
+
+ITERATOR (iterable/iterator
+
+MEDIATOR -uproszczenie komunikacji pomiędzy obiektami (takie serce)
+
+MEMENTO -
+
+OBSERVER- OBSERVABLE/OBSERVER
+
+STATE
+rozna reakcja na to samo zapytania tj np stan idle, dostaje zadanie i cos robi to kolejnego
+nie przyjmie
+
+doczytaj dobre praktyki
+

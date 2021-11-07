@@ -1,0 +1,30 @@
+Adapter
+- dopasowanie interfejsu jednego do drugiego
+
+łącznik pomiędzy nimi -
+
+Bridge - zastapienie dziedziczenia osobnymi abastrakcjami
+mniej zmian w przypadku zmian koncepcji (modyfikacja tylko w jednym miejscu w hierarchi
+łatwiejsze zarządzanie
+
+Composite praca z obiektami za pomoca abstrakcji (slajd 9
+https://java.pl.sdacademy.pro/prezentacje/wzorce_projektowe_i_dobre_praktyki/
+
+Decorator: dodanie nowej funkcjonalnosci - zawsze wywoluje oryginał i cos dokladamy
+implementacja dekoratorów
+
+FLYWEIGht - zmniejszenie zuycia pamieci
+wielwe obiektów, wyciagamy czesci wspolne np to samo imie, płeć
+
+FASADA - metoda wywolujaca metode, integracja interfejsow w jeden
+aby im wyzej tym   prostsze wywolania, zbieranie w jeden
+
+PROXY
+warstwa 1 wola 2 bez zmian
+chowa implementacje
+
+
+
+
+
+
