@@ -1,0 +1,1 @@
+singleton - przyklad to enum. Ma byc tylko jedno wystapienie obiektu
